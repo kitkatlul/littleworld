@@ -1,0 +1,9 @@
+{
+  "name": "bubus-little-world",
+  "version": "1.0.0",
+  "description": "Bubu's Little World: Desa Keajaiban - game edukatif anak TK A",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
